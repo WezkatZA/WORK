@@ -1,6 +1,6 @@
 # A repository of data analysis that I have done in my spare time. 
 
-#######################
+
 Movie Data
 
 This is data from a public dataset about Hollywood films from 2012 - 2016. I have done the following:
