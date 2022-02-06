@@ -18,3 +18,8 @@ This data is publicly available from Statistics South Africa, and it contains an
 - created a duplicate and removed unnecessary data
 - filtered the information by province, district and municipality (the structure of local government in South Africa). I created an additional sheet with information from my province, Eastern Cape.
 - Added an easy to read map on the Province sheet detailing the population of each province. 
+
+
+**Tableau Visualisations**
+
+CO2 Emissions, Happiness Index and World Happiness Index are visualisations which I have created using data from a public dataset on Kaggle. [My tableau profile can be seen here](https://public.tableau.com/app/profile/wesley.schroeder)
