@@ -17,4 +17,4 @@ This data is publicly available from Statistics South Africa, and it contains an
 - Formatted numbers, names and column names for easier reading
 - created a duplicate and removed unnecessary data
 - filtered the information by province, district and municipality (the structure of local government in South Africa). I created an additional sheet with information from my province, Eastern Cape.
-- Added an easy to read map on the Province sheet
+- Added an easy to read map on the Province sheet detailing the population of each province. 
