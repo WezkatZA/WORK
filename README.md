@@ -11,7 +11,7 @@ This is data from a public dataset about Hollywood films from 2012 - 2016. I hav
 
 **SA Population 2020**
 
-This data is publicly available from Statistics South Africa, and it contains an estimated population by age in the year 2020. It is cleaned, sorted and ready for analysis. What I have done is:
+This data is publicly available from Statistics South Africa, and it contains an estimated population by age in the year 2020. It is cleaned, sorted using Excel and SQL Server. What I have done is:
 
 - Checked the data for any nulls, errors, incorrect information
 - Formatted numbers, names and column names for easier reading
@@ -26,4 +26,4 @@ CO2 Emissions, Happiness Index and World Happiness Index are visualisations whic
 
 **Cyclistic Bike Share project**
 
-An analysis of casual and member rider patterns throughout the year in order to find out how to improve membership rates. Raw data from a public dataset was downloaded, cleaned and sorted with Excel. Additional columns were created for ride length, day of the week. Using this information, I was able to determine the average ride length for each month/year according to casual/member riders as well as identify which periods (days, months and seasons) had the highest/lowest share of rides.
+An analysis of casual and member rider patterns throughout the year in order to find out how to improve membership rates. [Raw data](https://divvy-tripdata.s3.amazonaws.com/index.html) from a public dataset was downloaded, cleaned and sorted with Excel. Additional columns were created for ride length, day of the week. Using this information, I was able to determine the average ride length for each month/year according to casual/member riders as well as identify which periods (days, months and seasons) had the highest/lowest share of rides. This was done using SQL Server, and Excel. 
