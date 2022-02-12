@@ -1,3 +1,6 @@
+-- Combine all the tables into one annual table
+WITH rides_2021 AS
+
 SELECT * FROM [Cyclistic].[dbo].[2021_01]
 UNION ALL 
 SELECT * FROM [Cyclistic].[dbo].[2021_02]
