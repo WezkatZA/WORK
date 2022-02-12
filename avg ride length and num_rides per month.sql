@@ -1,4 +1,4 @@
-/****** Script for SelectTopNRows command from SSMS  ******/
+/Calculate the Average ride length for members and casual bike riders. This code is repeated for each month/
 SELECT
       
       
