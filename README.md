@@ -23,3 +23,7 @@ This data is publicly available from Statistics South Africa, and it contains an
 **Tableau Visualisations**
 
 CO2 Emissions, Happiness Index and World Happiness Index are visualisations which I have created using data from a public dataset on Kaggle. [My tableau profile can be seen here](https://public.tableau.com/app/profile/wesley.schroeder)
+
+**Cyclistic Bike Share project**
+
+An analysis of casual and member rider patterns throughout the year in order to find out how to improve membership rates. Raw data from a public dataset was downloaded, cleaned and sorted with Excel. Additional columns were created for ride length, day of the week. Using this information, I was able to determine the average ride length for each month/year according to casual/member riders as well as identify which periods (days, months and seasons) had the highest/lowest share of rides.
