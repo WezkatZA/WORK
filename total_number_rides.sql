@@ -1,4 +1,4 @@
-/****** Script for SelectTopNRows command from SSMS  ******/
+/****** Total number of riders throughout the year  ******/
 SELECT 
 	COUNT([ride_id]) AS num_riders, 
 	member_casual
