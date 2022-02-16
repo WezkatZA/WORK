@@ -1,4 +1,4 @@
-/****** Script for SelectTopNRows command from SSMS  ******/
+/****** Find out the average ride length and number of rides per month  ******/
 SELECT
       
       
