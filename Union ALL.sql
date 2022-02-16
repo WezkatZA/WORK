@@ -1,6 +1,6 @@
--- Combine all the tables into one annual table
-
-SELECT * FROM [Cyclistic].[dbo].[2021_01]
+SELECT x.*
+INTO rides_2021
+FROM (SELECT * FROM [Cyclistic].[dbo].[2021_01]
 UNION ALL 
 SELECT * FROM [Cyclistic].[dbo].[2021_02]
 UNION ALL
@@ -24,4 +24,4 @@ SELECT * FROM [Cyclistic].[dbo].[2021_11]
 UNION ALL
 SELECT * FROM [Cyclistic].[dbo].[2021_12]
 UNION ALL
-SELECT * FROM [Cyclistic].[dbo].[2022_01]
+SELECT * FROM [Cyclistic].[dbo].[2022_01]) x
