@@ -1,4 +1,4 @@
-/****** Script for SelectTopNRows command from SSMS  ******/
+/****** Find out the most popular day overall according to member status  ******/
 SELECT COUNT([ride_id]) AS num_riders
      
       ,[member_casual]
